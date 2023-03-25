@@ -1,4 +1,4 @@
 ---
-title: Michael Agroskin
+title: Welcome to my blog
 ---
 
